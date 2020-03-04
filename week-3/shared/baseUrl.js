@@ -1,0 +1,1 @@
+export const baseUrl = "https://confusion-dbd48.firebaseio.com/";
